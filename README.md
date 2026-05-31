@@ -2,7 +2,7 @@
 
 App Flutter para o curso **Redação Elite** — permite que alunos enviem redações manuscritas via foto para correção por professores. Após corrigida, o aluno visualiza nota final, notas por competência, comentários e imagem da correção.
 
-Projeto desenvolvido como TCC do curso de Análise e Desenvolvimento de Sistemas da Católica de Santa Catarina.
+Projeto desenvolvido como PEX do curso de Desenvolvimento para Dispositivos Móveis.
 
 ## Stack
 
